@@ -38,7 +38,11 @@
       }
 
       //Functions
-      
+      function ChickenMan(){
+        print "<b>I am the CHICKEN MAN!</b>";
+      }
+
+      // ChickenMan();
 
     ?>
   </body>
